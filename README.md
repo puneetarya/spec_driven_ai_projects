@@ -1,1 +1,4 @@
-"# spec_driven_ai_projects" 
+# Spec-Driven AI Projects
+
+## Projects
+- Desktop Mochi
